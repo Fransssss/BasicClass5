@@ -1,4 +1,4 @@
-// Created by Fransiskus on 8/23/2022.
+// Created by Fransiskus Agapa on 8/23/2022.
 //
 // Capitalize words that user input
 
