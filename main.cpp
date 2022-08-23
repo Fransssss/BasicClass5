@@ -1,5 +1,7 @@
 // Fransiskus Agapa
 // 8/22/22
+// Practices make improvement - Have Fun !
+// :)
 
 // ================
 // user input type of a dog, its hair color and age
