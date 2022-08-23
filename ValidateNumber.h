@@ -1,5 +1,4 @@
-//
-// Created by Fransiskus on 8/23/2022.
+// Created by Fransiskus Agapa on 8/23/2022.
 //
 
 #ifndef BASICCLASS5_VALIDATENUMBER_H
