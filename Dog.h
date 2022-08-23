@@ -1,6 +1,5 @@
-//
 // Created by Fransiskus Agapa on 8/22/2022.
-//
+// Class Declaration
 
 #ifndef BASICCLASS5_DOG_H
 #define BASICCLASS5_DOG_H
