@@ -1,6 +1,5 @@
-//
 // Created by Fransiskus Agapa on 8/22/2022.
-//
+// Class Definition
 
 #include "Dog.h"
 #include "sstream"
