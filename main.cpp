@@ -3,6 +3,7 @@
 
 // ================
 // user input type of a dog, its hair color and age
+// output the data and its JSON form/line
 // ================
 
 #include <iostream>
